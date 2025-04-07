@@ -6,6 +6,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -55,6 +56,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
