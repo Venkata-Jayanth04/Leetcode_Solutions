@@ -7,6 +7,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
 | ------- |
@@ -24,4 +26,16 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
