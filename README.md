@@ -90,5 +90,6 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
