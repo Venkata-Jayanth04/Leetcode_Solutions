@@ -15,6 +15,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Depth-First Search
 |  |
@@ -73,6 +74,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +83,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
