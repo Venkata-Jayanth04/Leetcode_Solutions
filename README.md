@@ -87,4 +87,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
