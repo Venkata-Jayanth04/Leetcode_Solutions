@@ -7,6 +7,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -80,6 +81,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
