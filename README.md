@@ -76,6 +76,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Bit Manipulation
@@ -96,4 +97,13 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | ------- |
 | [0007-reverse-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
