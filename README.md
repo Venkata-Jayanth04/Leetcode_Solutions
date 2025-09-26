@@ -8,6 +8,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | ------- |
 | [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -59,6 +60,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -119,6 +121,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
