@@ -14,6 +14,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Greedy
 |  |
 | ------- |
