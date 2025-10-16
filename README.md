@@ -13,6 +13,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## String
@@ -68,6 +69,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +129,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
