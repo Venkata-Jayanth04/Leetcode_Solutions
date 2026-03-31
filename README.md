@@ -90,6 +90,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -112,6 +113,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0007-reverse-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
