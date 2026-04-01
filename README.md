@@ -21,6 +21,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -41,6 +42,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
@@ -120,6 +122,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
