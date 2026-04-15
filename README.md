@@ -94,6 +94,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -114,6 +115,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
@@ -151,4 +153,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2571-find-the-pivot-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2571-find-the-pivot-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
