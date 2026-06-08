@@ -8,6 +8,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | ------- |
 | [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -46,6 +47,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0344-reverse-string) |
 ## Tree
@@ -82,6 +84,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
