@@ -7,6 +7,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -46,6 +47,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
@@ -146,6 +148,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sliding Window
