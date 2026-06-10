@@ -10,6 +10,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -50,6 +51,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0344-reverse-string) |
 ## Tree
@@ -98,6 +100,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -135,6 +138,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -166,4 +170,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
