@@ -15,6 +15,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -90,6 +91,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0015-3sum](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
@@ -153,6 +155,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sliding Window
@@ -174,4 +177,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
