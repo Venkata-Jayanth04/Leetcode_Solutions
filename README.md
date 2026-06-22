@@ -32,6 +32,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -85,6 +86,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -184,5 +186,6 @@ This repository contains optimized solutions for various LeetCode problems, impl
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
