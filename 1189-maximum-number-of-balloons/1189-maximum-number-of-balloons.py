@@ -1,9 +1,14 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
+        freq = {}
+
+        for ch in text:
+            freq[ch] = freq.get(ch,0) + 1
+        
         return min(
-            text.count('b'),
-            text.count('a'),
-            text.count('l') // 2,
-            text.count('o') // 2,
-            text.count('n')
+            freq.get('b',0),
+            freq.get('a',0),
+            freq.get('l',0)//2,
+            freq.get('o',0)//2,
+            freq.get('n',0)
         )
