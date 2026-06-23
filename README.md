@@ -145,6 +145,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0009-palindrome-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0319-bulb-switcher](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -201,4 +202,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
