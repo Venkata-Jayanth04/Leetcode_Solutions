@@ -23,6 +23,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## String
@@ -74,6 +75,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -206,4 +208,20 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
