@@ -15,6 +15,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0134-gas-station](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -91,6 +92,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -104,6 +106,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
