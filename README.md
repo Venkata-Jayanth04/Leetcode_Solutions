@@ -12,6 +12,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0016-3sum-closest](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -230,4 +232,8 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
