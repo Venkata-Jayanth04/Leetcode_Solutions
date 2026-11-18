@@ -35,6 +35,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0013-roman-to-integer](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -94,6 +95,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -107,6 +109,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 | [0049-group-anagrams](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
