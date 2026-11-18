@@ -3,7 +3,13 @@ class Solution:
         dict = {}
 
         for word in strs:
-            key = ''.join(sorted(word))
+            count = [0] * 26
+
+            for char in word:
+                index = ord(char) - ord('a')
+                count[index] += 1
+
+            key = tuple(count)
 
             if key in dict:
                 dict[key].append(word)
