@@ -138,6 +138,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -212,6 +213,7 @@ This repository contains optimized solutions for various LeetCode problems, impl
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Venkata-Jayanth04/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 ## Brainteaser
 |  |
 | ------- |
